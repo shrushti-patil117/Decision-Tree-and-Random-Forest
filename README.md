@@ -46,6 +46,7 @@ Maximum Heart Rate
 etc.
 
 🚀 Project Workflow
+
 1️⃣ Data Preprocessing
 Loaded dataset
 Checked for missing values
